@@ -1,0 +1,28 @@
+
+Maderas Ideales:
+
+Respecto a la altura:
+Una de 40.5 cm, que será el soporte y luego la madera superior que será de 2 cm de altura.
+
+Cuadrado de la base:
+¿8x8? cm
+
+Rectángulo pieza de arriba:
+¿8?x20+¿8? -> Depende de la pieza anterior.
+
+
+Medidas Finales (Si es posible):
+
+Pieza base:
+
+Altura: 40.5 cm
+Ancho: 8 cm
+Largo: 8 cm
+
+Pieza arriba (dónde irá la cámara):
+
+Altura: 2 cm
+Ancho: 8 cm
+Largo: 28 cm
+
+Veremos lo que podemos conseguir en los OpenLabs.

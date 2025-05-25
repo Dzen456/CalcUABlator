@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=wcLeXXATCR4
+
+- Be careful when touching the motor drivers!
+- If we want to move the stepper motors step/2 by step/2 instead of step by step, use MS pins.

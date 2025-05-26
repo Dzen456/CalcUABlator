@@ -16,7 +16,7 @@ Software_CalcUABlator: This folder contains the function diagram of the robot, w
 
 Old version - 3D Model and ideas: This folder contains an old, unused version of the robot for researching purposes, with the dimensions, list of components, and a code for the camera. 
 
-### Instalation
+### Installation
 
 ##### Hardware
 

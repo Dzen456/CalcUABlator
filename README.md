@@ -2,10 +2,9 @@
 
 A robot capable of doing mathematical operations using Computer Vision.
 
-This document contains instructions of the robot's functionality and usage, and the requeriments necessary for this code to work.
 This document contains instructions of the robot's functionality and usage, and the requirements necessary for this code to work.
 
-### About
+## About
 
 CalcUABlator has the following directories:
 
@@ -17,9 +16,9 @@ CalcUABlator has the following directories:
 
 - Old version - 3D Model and ideas: This folder contains an old, unused version of the robot for researching purposes, with the dimensions, list of components, and a code for the camera. 
 
-### Installation
+## Installation
 
-##### Hardware
+### Hardware
 
 Making this robot requieres all of the following components, or at least similar to:
 
@@ -48,19 +47,19 @@ Raspberry Structure Superior Support: (estimated parameters: length - 30 cm / wi
 Rubber Strap
 Also some extra pieces between the arms and the axis supports.
 
-##### Software
+### Software
 
 If you just want to run the simulation, only CoppeliaSim software + Jupiter Notebook is required to make it work. 
 
 For the Arduino UNO Rev. 3, you will need Arduino IDE.
 
-### Usage
+## Usage
 
 For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.ttt file on the CoppeliaSim and then execute the CoppeliaSim_CalcUABlator_script.ipynb notebook to activate the demo of the robot. It is possible to change the test texture in the folder test_texture to test the robot capacities.
 
 To run the robot's Arduino UNO Rev. 3, you'll have to connect the device to the arduino with a cable to be able to run the code correctly. You'll also need to build the robot using the components described above and the blueprints for the circuits and structure.
 
-### Bibliography
+## Bibliography
 
 https://raspberrypi-guide.github.io/electronics/camera-positioning
 https://docs.arduino.cc/tutorials/uno-rev3/getting-started/

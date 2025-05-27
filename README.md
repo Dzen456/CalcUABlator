@@ -61,9 +61,9 @@ To run the robot's Arduino UNO Rev. 3, you'll have to connect the device to the 
 
 ## Bibliography
 
-<ul>
+<li>
 https://raspberrypi-guide.github.io/electronics/camera-positioning
 https://docs.arduino.cc/tutorials/uno-rev3/getting-started/
 https://www.youtube.com/watch?v=wcLeXXATCR4
 Robótica, Llenguatge i Programació class notes.
-</ul>
+</li>

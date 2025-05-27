@@ -3,18 +3,19 @@
 A robot capable of doing mathematical operations using Computer Vision.
 
 This document contains instructions of the robot's functionality and usage, and the requeriments necessary for this code to work.
+This document contains instructions of the robot's functionality and usage, and the requirements necessary for this code to work.
 
 ### About
 
 CalcUABlator has the following directories:
 
-Fritzing_CalcUABlator: This folder contains the blueprints for the fritzing of the robot, required for his correct construction. The diagram must be followed; otherwise, the robot likely won't work.
+- Fritzing_CalcUABlator: This folder contains the blueprints for the fritzing of the robot, required for his correct construction. The diagram must be followed; otherwise, the robot likely won't work.
 
-CoppeliaSim_CalcUABlator: This folder contains the CoppeliaSim of the robot, where you can simulate his behaviour and usage.
+- CoppeliaSim_CalcUABlator: This folder contains the CoppeliaSim of the robot, where you can simulate his behaviour and usage.
 
-Software_CalcUABlator: This folder contains the function diagram of the robot, with all the variables and functions that the robot manages in the Raspberry Pi and Arduino modules.
+- Software_CalcUABlator: This folder contains the function diagram of the robot, with all the variables and functions that the robot manages in the Raspberry Pi and Arduino modules.
 
-Old version - 3D Model and ideas: This folder contains an old, unused version of the robot for researching purposes, with the dimensions, list of components, and a code for the camera. 
+- Old version - 3D Model and ideas: This folder contains an old, unused version of the robot for researching purposes, with the dimensions, list of components, and a code for the camera. 
 
 ### Installation
 
@@ -55,7 +56,7 @@ For the Arduino UNO Rev. 3, you will need Arduino IDE.
 
 ### Usage
 
-For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.ttt file on the CoppeliaSim and then execute the CoppeliaSim_CalcUABlator_script.ipynb notebook to activate the demo of the robot. It is posible to change the test texture in the folder test_texture to test the robot capacities.
+For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.ttt file on the CoppeliaSim and then execute the CoppeliaSim_CalcUABlator_script.ipynb notebook to activate the demo of the robot. It is possible to change the test texture in the folder test_texture to test the robot capacities.
 
 To run the robot's Arduino UNO Rev. 3, you'll have to connect the device to the arduino with a cable to be able to run the code correctly. You'll also need to build the robot using the components described above and the blueprints for the circuits and structure.
 
@@ -63,4 +64,5 @@ To run the robot's Arduino UNO Rev. 3, you'll have to connect the device to the 
 
 https://raspberrypi-guide.github.io/electronics/camera-positioning
 https://docs.arduino.cc/tutorials/uno-rev3/getting-started/
+https://www.youtube.com/watch?v=wcLeXXATCR4
 Robótica, Llenguatge i Programació class notes.

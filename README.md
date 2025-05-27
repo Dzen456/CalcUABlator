@@ -20,7 +20,7 @@ CalcUABlator has the following directories:
 
 ### Hardware
 
-Making this robot requieres all of the following components, or at least similar to:
+Making this robot requieres all of the following **hardware components**, or at least similar to:
 
 - Arduino UNO Rev. 3
 - Raspberry Pi 3 B+
@@ -31,7 +31,7 @@ Making this robot requieres all of the following components, or at least similar
 - Standar servo S3003, 360 Degrees
 - ATX COOLBOX 500W
 
-Also, it is required to have the following additional parts:
+Also, it is required to have the following **additional pieces**:
 
 - Arms Support: (estimated parameters: length - 18 cm / width - 5 cm / thickness - 0.25 cm)
 - Big Metal Axis: (estimated parameters: diameter - 2 cm / height - 12 cm)

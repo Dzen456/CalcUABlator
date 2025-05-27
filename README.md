@@ -4,19 +4,48 @@ A robot capable of doing mathematical operations using Computer Vision.
 
 This document contains instructions of the robot's functionality and usage, and the requirements necessary for this code to work.
 
-## About
+## Content:
 
 CalcUABlator has the following directories:
 
-- Fritzing_CalcUABlator: This folder contains the blueprints for the fritzing of the robot, required for his correct construction. The diagram must be followed; otherwise, the robot likely won't work.
-
 - CoppeliaSim_CalcUABlator: This folder contains the CoppeliaSim of the robot, where you can simulate his behaviour and usage.
+```cmd
+CoppeliaSim_CalcUABlator/
+├── test_texture/
+│   └── test_texture.jpg
+├── CoppeliaSim_CalcUABlator.ttt
+├── CoppeliaSim_CalcUABlator_script.ipynb
+├── remoteApi.dll
+├── sim.py
+└── simConst.py
+```
+- Fritzing_CalcUABlator: This folder contains the blueprints for the fritzing of the robot, required for his correct construction. The diagram must be followed; otherwise, the robot likely won't work.
+```cmd
+Fritzing_CalcUABlator/
+├── calcUABlator-fritzing.fzz
+├── calcUABlator-fritzing_bb.png
+└── references.txt
+```
+- Old version - 3D Model and ideas: This folder contains an old, unused version of the robot for researching purposes, with the dimensions, list of components, and a code for the camera.
+```cmd
+Old version - 3D Model and ideas/
+├── OLD_calcUABlator/
+│   ├── background_test/
+│   │   └── christmas_photo_studio_07_4k.exr
+│   ├── Lista Componentes (No Hardware) - 22-04-2025.pdf
+│   ├── RLP_Robot_Boceto2.blend
+│   └── RLP_Robot_Boceto2.blend1
+├── ConfirmacionMedidasCodigo.py
+├── MedidasEstructuraRaspberryTrigonometria.pdf
+└── Medidas_Estructura_Raspberry.txt
+```
+- Software_CalcUABlator: This folder contains the function diagram of the robot, with all the variables and functions that the robot manages in the Raspberry Pi and Arduino modules. 
+```cmd
+Software_CalcUABlator/
+└── SoftwareSchema.pdf
+```
 
-- Software_CalcUABlator: This folder contains the function diagram of the robot, with all the variables and functions that the robot manages in the Raspberry Pi and Arduino modules.
-
-- Old version - 3D Model and ideas: This folder contains an old, unused version of the robot for researching purposes, with the dimensions, list of components, and a code for the camera. 
-
-## Installation
+## Installation:
 
 ### Hardware
 
@@ -53,13 +82,13 @@ If you just want to run the simulation, only CoppeliaSim software + Jupiter Note
 
 For the Arduino UNO Rev. 3, you will need Arduino IDE.
 
-## Usage
+## Usage:
 
 For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.ttt file on the CoppeliaSim and then execute the CoppeliaSim_CalcUABlator_script.ipynb notebook to activate the demo of the robot. It is possible to change the test texture in the folder test_texture to test the robot capacities.
 
 To run the robot's Arduino UNO Rev. 3, you'll have to connect the device to the arduino with a cable to be able to run the code correctly. You'll also need to build the robot using the components described above and the blueprints for the circuits and structure.
 
-## Bibliography
+## Bibliography:
 
 - https://raspberrypi-guide.github.io/electronics/camera-positioning
 - https://docs.arduino.cc/tutorials/uno-rev3/getting-started/

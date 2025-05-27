@@ -22,14 +22,14 @@ Old version - 3D Model and ideas: This folder contains an old, unused version of
 
 Making this robot requieres all of the following components, or at least similar to:
 
--Arduino UNO Rev. 3
--Raspberry Pi 3 B+
--Source Power Supply Raspberry Pi 3 - 5V/2.5A
--Camera Raspberry Pi v2 - 8 Megapixels
--Motor NEMA 17 / 3.5Kg with conector and cable (two units)
--Motor Drivers step to step 3.5A (TB6600) (two units)
--Standar servo S3003, 360 Degrees
--ATX COOLBOX 500W
+- Arduino UNO Rev. 3
+- Raspberry Pi 3 B+
+- Source Power Supply Raspberry Pi 3 - 5V/2.5A
+- Camera Raspberry Pi v2 - 8 Megapixels
+- Motor NEMA 17 / 3.5Kg with conector and cable (two units)
+- Motor Drivers step to step 3.5A (TB6600) (two units)
+- Standar servo S3003, 360 Degrees
+- ATX COOLBOX 500W
 
 Also, it is required to have the following additional parts:
 

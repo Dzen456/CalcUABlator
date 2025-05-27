@@ -60,6 +60,11 @@ Making this robot requieres all of the following **hardware components**, or at 
 - Standar servo S3003, 360 Degrees
 - ATX COOLBOX 500W
 
+#### Fritzing:
+</br>
+<img width="300px" style="padding-right:10px;" src="Fritzing_CalcUABlator/calcUABlator-fritzing_bb.png" />
+<br>
+
 Also, it is required to have the following **additional pieces**:
 
 - Arms Support: (estimated parameters: length - 18 cm / width - 5 cm / thickness - 0.25 cm)

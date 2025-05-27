@@ -51,12 +51,12 @@ Software_CalcUABlator/
 
 Making this robot requieres all of the following **hardware components**, or at least similar to:
 
-- Arduino UNO Rev. 3
-- Raspberry Pi 3 B+
-- Source Power Supply Raspberry Pi 3 - 5V/2.5A
+- Arduino UNO 4 WiFi
+- Raspberry Pi 4
+- Source Power Supply for Raspberry Pi 4 - 5V/2.5A
 - Camera Raspberry Pi v2 - 8 Megapixels
-- Motor NEMA 17 / 3.5Kg with conector and cable (two units)
-- Motor Drivers step to step 3.5A (TB6600) (two units)
+- Motor NEMA 17 / 3.5Kg with conector and cable (x2)
+- Stepper motor Drivers (A4988) (x2)
 - Standar servo S3003, 360 Degrees
 - ATX COOLBOX 500W
 

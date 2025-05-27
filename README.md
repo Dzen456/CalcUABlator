@@ -61,9 +61,7 @@ Making this robot requieres all of the following **hardware components**, or at 
 - ATX COOLBOX 500W
 
 #### Fritzing:
-</br>
-<img width="300px" style="padding-right:10px;" src="Fritzing_CalcUABlator/calcUABlator-fritzing_bb.png" />
-<br>
+<img width="500px" style="padding-right:10px;" src="Fritzing_CalcUABlator/calcUABlator-fritzing_bb.png" />
 
 Also, it is required to have the following **additional pieces**:
 

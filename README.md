@@ -33,19 +33,19 @@ Making this robot requieres all of the following components, or at least similar
 
 Also, it is required to have the following additional parts:
 
-Arms Support: (estimated parameters: length - 18 cm / width - 5 cm / thickness - 0.25 cm)
-Big Metal Axis: (estimated parameters: diameter - 2 cm / height - 12 cm)
-Big Axis Wheel: (estimated parameters: wheel diameter - 3 cm / hole wheel diameter - 2 cm)
-Small Metal Axis: (estimated parameters: diameter - 2 cm / height - 5 cm)
-Smal Wheel Axis: (estimated parameters: wheel diameter - 3 cm / hole wheel diameter - 2 cm)
-Screws: 20 screws of 1 cm, 4 screws of 3 cm
-Pen Support Piece: (estimated parameters: length - 5 cm / width - 1 cm / square zone hole - 1x1 cm)
-Wood Platform: (estimated parameters: length - 42 cm / width - 32 cm / thickness - 1 cm)
-Raspberry Structure Support: (estimated parameters: length - 8 cm / width - 8 cm / height - 30 cm)
-Raspberry Structure Superior Support: (estimated parameters: length - 30 cm / width - 8 cm / thickness - 2 cm)
-2-4 brackets
-Rubber Strap
-Also some extra pieces between the arms and the axis supports.
+- Arms Support: (estimated parameters: length - 18 cm / width - 5 cm / thickness - 0.25 cm)
+- Big Metal Axis: (estimated parameters: diameter - 2 cm / height - 12 cm)
+- Big Axis Wheel: (estimated parameters: wheel diameter - 3 cm / hole wheel diameter - 2 cm)
+- Small Metal Axis: (estimated parameters: diameter - 2 cm / height - 5 cm)
+- Smal Wheel Axis: (estimated parameters: wheel diameter - 3 cm / hole wheel diameter - 2 cm)
+- Screws: 20 screws of 1 cm, 4 screws of 3 cm
+- Pen Support Piece: (estimated parameters: length - 5 cm / width - 1 cm / square zone hole - 1x1 cm)
+- Wood Platform: (estimated parameters: length - 42 cm / width - 32 cm / thickness - 1 cm)
+- Raspberry Structure Support: (estimated parameters: length - 8 cm / width - 8 cm / height - 30 cm)
+- Raspberry Structure Superior Support: (estimated parameters: length - 30 cm / width - 8 cm / thickness - 2 cm)
+- 2-4 brackets
+- Rubber Strap
+- Also some extra pieces between the arms and the axis supports.
 
 ### Software
 
@@ -61,9 +61,7 @@ To run the robot's Arduino UNO Rev. 3, you'll have to connect the device to the 
 
 ## Bibliography
 
-<li>
-https://raspberrypi-guide.github.io/electronics/camera-positioning
-https://docs.arduino.cc/tutorials/uno-rev3/getting-started/
-https://www.youtube.com/watch?v=wcLeXXATCR4
-Robótica, Llenguatge i Programació class notes.
-</li>
+- https://raspberrypi-guide.github.io/electronics/camera-positioning
+- https://docs.arduino.cc/tutorials/uno-rev3/getting-started/
+- https://www.youtube.com/watch?v=wcLeXXATCR4
+- Robótica, Llenguatge i Programació class notes.

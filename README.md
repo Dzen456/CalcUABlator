@@ -88,6 +88,8 @@ For the Arduino UNO Rev. 3, you will need Arduino IDE.
 ## Usage:
 
 For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.ttt file on the CoppeliaSim and then execute the CoppeliaSim_CalcUABlator_script.ipynb notebook to activate the demo of the robot. It is possible to change the test texture in the folder test_texture to test the robot capacities.
+
+
 <img src="CoppeliaSim_CalcUABlator/CoppeliaSim.gif" width="500">
 
 To run the robot's Arduino UNO Rev. 3, you'll have to connect the device to the arduino with a cable to be able to run the code correctly. You'll also need to build the robot using the components described above and the blueprints for the circuits and structure.

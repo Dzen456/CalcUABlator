@@ -1,0 +1,3 @@
+### If you want to contribute to our project, you can...
+1. Add the details of an issue found [here](https://github.com/Dzen456/CalcUABlator/issues)
+2. Want to change the code? Fork the repository and make a pull request.

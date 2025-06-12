@@ -4,7 +4,7 @@ A robot capable of doing mathematical operations using Computer Vision.
 
 This document contains instructions of the robot's functionality and usage, and the requirements necessary for this code to work.
 
-## Table of content:
+## Table of contents:
 
 - [Directories](#Directories)
 - [Installation](#Installation)

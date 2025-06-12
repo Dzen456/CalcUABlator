@@ -3,11 +3,11 @@
 </a>
 
 <br>
-<center>
+<p style="text-align:center;>
 A robot capable of doing mathematical operations using Computer Vision.
 
 This document contains instructions of the robot's functionality and usage, and the requirements necessary for this code to work.
-</center>
+</p>
 </br>
 
 ## Table of contents:

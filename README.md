@@ -4,7 +4,11 @@ A robot capable of doing mathematical operations using Computer Vision.
 
 This document contains instructions of the robot's functionality and usage, and the requirements necessary for this code to work.
 
-## Content:
+## Table of content:
+
+- [link](#Directories)
+
+## Directories:
 
 CalcUABlator has the following directories:
 

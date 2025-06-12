@@ -1,4 +1,6 @@
-![Logo](https://github.com/user-attachments/assets/39da234b-853f-4b1a-8f35-447f2a2f937c)
+<a href=https://github.com/Dzen456/CalcUABlator>
+<img src=https://github.com/user-attachments/assets/39da234b-853f-4b1a-8f35-447f2a2f937c />
+</a>
 
 A robot capable of doing mathematical operations using Computer Vision.
 

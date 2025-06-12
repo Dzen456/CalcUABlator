@@ -1,4 +1,4 @@
-![Logo](https://github.com/user-attachments/assets/170b0923-ef7d-4e70-941a-cacff46b9801)
+![Logo](https://github.com/user-attachments/assets/39da234b-853f-4b1a-8f35-447f2a2f937c)
 
 A robot capable of doing mathematical operations using Computer Vision.
 

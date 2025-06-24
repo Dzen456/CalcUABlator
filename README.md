@@ -75,13 +75,13 @@ Making this robot requieres all of the following **hardware components**, or at 
 
 | <a href=https://tienda.bricogeek.com/arduino-original/1845-arduino-uno-r4-wifi.html> Arduino UNO 4 WiFi </a>    | <a href=https://tienda.bricogeek.com/placas-raspberry-pi/1330-raspberry-pi-4-model-b-4-gb.html > Raspberry Pi 4 </a> |
 | -------- | ------- |
-| ![image](https://github.com/user-attachments/assets/319f562a-b377-4e2e-a5cc-2fa9d9563da1) | ![image](https://github.com/user-attachments/assets/6b71e162-adc5-4c3e-9c91-6789f88d16bf) |
+| <a href=https://tienda.bricogeek.com/arduino-original/1845-arduino-uno-r4-wifi.html>![image](https://github.com/user-attachments/assets/319f562a-b377-4e2e-a5cc-2fa9d9563da1)</a> | <a href=https://tienda.bricogeek.com/placas-raspberry-pi/1330-raspberry-pi-4-model-b-4-gb.html >![image](https://github.com/user-attachments/assets/6b71e162-adc5-4c3e-9c91-6789f88d16bf)</a> |
 | <a href=https://tienda.bricogeek.com/accesorios-raspberry-pi/822-camara-raspberry-pi-v2-8-megapixels.html> Raspberry Pi v2 Cam </a>    | <a href=https://tienda.bricogeek.com/fuentes-de-alimentacion/775-fuente-de-alimentacion-atx-coolbox-500w.html> Power Supply ATX 500W </a> |
-| ![image](https://github.com/user-attachments/assets/8f06ff10-a0f2-48ff-a093-9a3f29bd7f4a) | ![image](https://github.com/user-attachments/assets/61f52a2c-7b2e-433c-8eb5-70d17877f88c) |
+| <a href=https://tienda.bricogeek.com/accesorios-raspberry-pi/822-camara-raspberry-pi-v2-8-megapixels.html>![image](https://github.com/user-attachments/assets/8f06ff10-a0f2-48ff-a093-9a3f29bd7f4a)</a> | <a href=https://tienda.bricogeek.com/fuentes-de-alimentacion/775-fuente-de-alimentacion-atx-coolbox-500w.html>![image](https://github.com/user-attachments/assets/61f52a2c-7b2e-433c-8eb5-70d17877f88c)</a> |
 | <a href=https://tienda.bricogeek.com/motores-paso-a-paso/1360-motor-nema-17-35kg-con-conector-y-cable.html> Nema 17 stepper </a>    | <a href=https://tienda.bricogeek.com/controladores-motores/553-pololu-a4988-stepstick-prusa-reprap.html> Stepper Driver Pololu A4988 </a> |
-| ![image](https://github.com/user-attachments/assets/0a8c4144-cc1a-46a2-aa83-261d581e2d59) | ![image](https://github.com/user-attachments/assets/8382df22-a86d-49c8-97a7-4ca345caf88a) |
+| <a href=https://tienda.bricogeek.com/motores-paso-a-paso/1360-motor-nema-17-35kg-con-conector-y-cable.html>![image](https://github.com/user-attachments/assets/0a8c4144-cc1a-46a2-aa83-261d581e2d59)</a> | <a href=https://tienda.bricogeek.com/controladores-motores/553-pololu-a4988-stepstick-prusa-reprap.html>![image](https://github.com/user-attachments/assets/8382df22-a86d-49c8-97a7-4ca345caf88a)</a> |
 | <a href=https://tienda.bricogeek.com/motores/118-servomotor-de-rotacion-continua-s3003-360-grados.html> Servo S3003 </a>    |  |
-| ![image](https://github.com/user-attachments/assets/0f8dbdca-aa6d-44b3-a966-ff340985b0fa) |  |
+| <a href=https://tienda.bricogeek.com/motores/118-servomotor-de-rotacion-continua-s3003-360-grados.html>![image](https://github.com/user-attachments/assets/0f8dbdca-aa6d-44b3-a966-ff340985b0fa)</a> |  |
 
 <!-- Source Power Supply for Raspberry Pi 4 - 5V/2.5A -->
 

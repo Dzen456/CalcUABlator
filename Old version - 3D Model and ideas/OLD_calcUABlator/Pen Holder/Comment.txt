@@ -1,0 +1,2 @@
+
+This piece was supposed to be part of the robot and help the pen to go up and down to write on a paper.

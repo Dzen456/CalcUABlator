@@ -48,12 +48,11 @@ Old version - 3D Model and ideas/
 ├── OLD_calcUABlator/
 │   ├── background_test/
 │   │   └── christmas_photo_studio_07_4k.exr
-│   ├── Lista Componentes (No Hardware) - 22-04-2025.pdf
-│   ├── RLP_Robot_Boceto2.blend
-│   └── RLP_Robot_Boceto2.blend1
-├── ConfirmacionMedidasCodigo.py
-├── MedidasEstructuraRaspberryTrigonometria.pdf
-└── Medidas_Estructura_Raspberry.txt
+│   ├── List of components (No Hardware) - 22-04-2025.pdf
+│   ├── RLP_Robot_sketch2.blend
+├── Measurement_Confirmation_Script.py
+├── Raspberry_Structure_Measurements_Trigonometry (Comments in Spanish).pdf
+└── Raspberry_Structure_Measurements.txt
 ```
 - Software_CalcUABlator: This folder contains the function diagram of the robot, with all the variables and functions that the robot manages in the Raspberry Pi and Arduino modules. 
 ```cmd

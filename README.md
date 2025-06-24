@@ -115,7 +115,7 @@ Also, it is required to have the following **additional pieces**:
 
 IDEs:
 - Python (Pycharm, VS Code, Spyder,...)
-- Jupyter Notebook 7+ (From the website or Anaconda)
+- Jupyter Notebook 7+ (Downloaded from the website or Anaconda)
 - Arduino IDE (Web or desktop version)
 
 Other software:

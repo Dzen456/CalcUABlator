@@ -107,7 +107,7 @@ Also, it is required to have the following **additional pieces**:
 
 ### Software
 
-<img width="650px" style="padding-right:10px;" src="Software_CalcUABlator/SoftwareSchema.pdf" />
+![image](https://github.com/user-attachments/assets/86c001aa-c612-41e7-9019-738179391035)
 
 ### Specs:
 

@@ -107,6 +107,29 @@ Also, it is required to have the following **additional pieces**:
 
 ### Software
 
+<img width="650px" style="padding-right:10px;" src="Software_CalcUABlator/SoftwareSchema.pdf" />
+
+### Specs:
+
+IDEs:
+- Python (Pycharm, VS Code, Spyder,...)
+- Jupyter Notebook 7+ (From the website or Anaconda)
+- Arduino IDE (Web or desktop version)
+
+Other software:
+- Coppelia 4.7
+- Blender 4.1
+- Python 3.11?
+
+### Requirements:
+```shell
+numpy
+opencv-python
+matplotlib
+easyocr
+sympy
+```
+
 If you just want to run the simulation, only CoppeliaSim software + Jupiter Notebook is required to make it work. 
 
 For the Arduino UNO Rev. 3, you will need Arduino IDE.

@@ -83,17 +83,11 @@ Making this robot requieres all of the following **hardware components**, or at 
 | <a href=https://tienda.bricogeek.com/motores/118-servomotor-de-rotacion-continua-s3003-360-grados.html> Servo S3003 </a>    |  |
 | ![image](https://github.com/user-attachments/assets/0f8dbdca-aa6d-44b3-a966-ff340985b0fa) |  |
 
-- Arduino UNO 4 WiFi
-- Raspberry Pi 4
-- Source Power Supply for Raspberry Pi 4 - 5V/2.5A
-- Camera Raspberry Pi v2 - 8 Megapixels
-- Motor NEMA 17 / 3.5Kg with conector and cable (x2)
-- Stepper motor Drivers (A4988) (x2)
-- Standar servo S3003, 360 Degrees
-- ATX COOLBOX 500W
+<!-- Source Power Supply for Raspberry Pi 4 - 5V/2.5A -->
+
 
 #### Fritzing:
-<img width="500px" style="padding-right:10px;" src="Fritzing_CalcUABlator/calcUABlator-fritzing_bb.png" />
+<img width="500px" style="padding-right:10px;" src="Hardware_CaclUABlator/Fritzing_CalcUABlator/calcUABlator-fritzing_bb.png" />
 
 Also, it is required to have the following **additional pieces**:
 

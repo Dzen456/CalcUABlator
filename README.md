@@ -73,8 +73,8 @@ Software_CalcUABlator/
 
 Making this robot requieres all of the following **hardware components**, or at least similar to:
 
-| <a href=https://tienda.bricogeek.com/arduino-original/1845-arduino-uno-r4-wifi.html> Arduino UNO 4 WiFi </a>    | <a href=https://tienda.bricogeek.com/placas-raspberry-pi/1330-raspberry-pi-4-model-b-4-gb.html > Raspberry Pi 4 </a> |
 | :------: | :------: |
+| <a href=https://tienda.bricogeek.com/arduino-original/1845-arduino-uno-r4-wifi.html> Arduino UNO 4 WiFi </a>    | <a href=https://tienda.bricogeek.com/placas-raspberry-pi/1330-raspberry-pi-4-model-b-4-gb.html > Raspberry Pi 4 </a> |
 | <a href=https://tienda.bricogeek.com/arduino-original/1845-arduino-uno-r4-wifi.html>![image](https://github.com/user-attachments/assets/319f562a-b377-4e2e-a5cc-2fa9d9563da1)</a> | <a href=https://tienda.bricogeek.com/placas-raspberry-pi/1330-raspberry-pi-4-model-b-4-gb.html >![image](https://github.com/user-attachments/assets/6b71e162-adc5-4c3e-9c91-6789f88d16bf)</a> |
 | <a href=https://tienda.bricogeek.com/accesorios-raspberry-pi/822-camara-raspberry-pi-v2-8-megapixels.html> Raspberry Pi v2 Cam </a>    | <a href=https://tienda.bricogeek.com/fuentes-de-alimentacion/775-fuente-de-alimentacion-atx-coolbox-500w.html> Power Supply ATX 500W </a> |
 | <a href=https://tienda.bricogeek.com/accesorios-raspberry-pi/822-camara-raspberry-pi-v2-8-megapixels.html>![image](https://github.com/user-attachments/assets/8f06ff10-a0f2-48ff-a093-9a3f29bd7f4a)</a> | <a href=https://tienda.bricogeek.com/fuentes-de-alimentacion/775-fuente-de-alimentacion-atx-coolbox-500w.html>![image](https://github.com/user-attachments/assets/61f52a2c-7b2e-433c-8eb5-70d17877f88c)</a> |

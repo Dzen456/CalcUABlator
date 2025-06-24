@@ -49,11 +49,11 @@ Old version - 3D Model and ideas/
 │   ├── background_test/
 │   │   └── christmas_photo_studio_07_4k.exr
 │   ├── Pen Holder/
-│   |   ├── Comment.txt
-│   |   ├── part1.png
-│   |   ├── part2.png
-│   |   ├── part3.png
-│   |   ├── part4.png
+│   │   │── Comment.txt
+│   │   │── part1.png
+│   │   │── part2.png
+│   │   │── part3.png
+│   │   │── part4.png
 │   │   └── RLP_PenHolder.blend
 │   ├── List of components (No Hardware) - 22-04-2025.pdf
 │   ├── RLP_Robot_sketch2.blend

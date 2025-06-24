@@ -67,6 +67,8 @@ Software_CalcUABlator/
 └── SoftwareSchema.pdf
 ```
 
+## Demo:
+
 ## Installation:
 
 ### Hardware
@@ -144,6 +146,14 @@ For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.t
 ## How to Use:
 
 To run the robot's Arduino UNO Rev. 3, you'll have to connect the device to the arduino with a cable to be able to run the code correctly. You'll also need to build the robot using the components described above and the blueprints for the circuits and structure.
+
+## Authors:
+
+- Yanhao Lin
+- Isaac Sánchez Amat
+- Jofre Segura Montagut
+- Raúl Velázquez Gómez
+- David Zheng
 
 ## Bibliography:
 

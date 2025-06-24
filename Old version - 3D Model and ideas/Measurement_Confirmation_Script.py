@@ -1,5 +1,5 @@
 
-# Referencia: https://raspberrypi-guide.github.io/electronics/camera-positioning
+# Reference: https://raspberrypi-guide.github.io/electronics/camera-positioning
 
 import numpy as np
 
@@ -8,6 +8,6 @@ def calcdist(angle_of_view, plane_of_view):
 
     print("Distance to plane =", result)
 
-# Plano y resultado en centímetros
-calcdist(62.2, 45)              # 45 menos unos 6 cm para el motor y el eje del brazo
+# Plane and result in centimeters (cm)
+calcdist(62.2, 45)              # 45 minus about 6 cm for the motor and arm shaft
 calcdist(48.8, 35)

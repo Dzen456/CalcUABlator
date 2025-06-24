@@ -73,11 +73,9 @@ Software_CalcUABlator/
 
 Making this robot requieres all of the following **hardware components**, or at least similar to:
 
-| Month    | Savings |
+| Arduino UNO 4 WiFi    | Raspberry Pi 4 |
 | -------- | ------- |
 | January  | $250    |
-| February | $80     |
-| March    | $420    | 
 
 - Arduino UNO 4 WiFi
 - Raspberry Pi 4

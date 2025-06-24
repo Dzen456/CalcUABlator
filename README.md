@@ -75,7 +75,7 @@ Making this robot requieres all of the following **hardware components**, or at 
 
 | Arduino UNO 4 WiFi    | Raspberry Pi 4 |
 | -------- | ------- |
-| January  | $250    |
+| ![image](https://github.com/user-attachments/assets/319f562a-b377-4e2e-a5cc-2fa9d9563da1) | ![image](https://github.com/user-attachments/assets/6b71e162-adc5-4c3e-9c91-6789f88d16bf) |
 
 - Arduino UNO 4 WiFi
 - Raspberry Pi 4

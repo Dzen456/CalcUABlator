@@ -89,9 +89,9 @@ Making this robot requieres all of the following **hardware components**, or at 
 | <a href=https://tienda.bricogeek.com/motores/118-servomotor-de-rotacion-continua-s3003-360-grados.html>![image](https://github.com/user-attachments/assets/0f8dbdca-aa6d-44b3-a966-ff340985b0fa)</a> |  |
 
 <!-- Source Power Supply for Raspberry Pi 4 - 5V/2.5A -->
-You will need to have a **Power Supply for the Raspberry Pi 4 of 5V/2.5A**.
-You should **use the +12V (Yellow output) from the ATX Power Supply** to power the stepper drivers.
-Maybe you should **calibrate the two stepper drivers to a VRef of 1.2V** (see how to do this in this video: https://youtu.be/wcLeXXATCR4?t=462).
+- You will need to have a **Power Supply for the Raspberry Pi 4 of 5V/2.5A**.
+- You should **use the +12V (Yellow output) from the ATX Power Supply** to power the stepper drivers.
+- Maybe you should **calibrate the two stepper drivers to a VRef of 1.2V** (see how to do this in this video: https://youtu.be/wcLeXXATCR4?t=462).
 
 #### Fritzing:
 <img width="650px" style="padding-right:10px;" src="Hardware_CalcUABlator/Fritzing_CalcUABlator/calcUABlator-fritzing_bb.png" />
@@ -149,7 +149,6 @@ If you want to make it work in the real life, see [How to Use](#How-to-Use).
    ```
    
 2. For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.ttt file on the CoppeliaSim and then execute the CoppeliaSim_CalcUABlator_script.ipynb notebook to activate the demo of the robot. It is possible to change the test texture in the folder test_texture to test the robot capacities.
-
 <img src="CoppeliaSim_CalcUABlator/CoppeliaSim.gif" width="500">
 
 ## How to Use:
@@ -160,12 +159,10 @@ If you want to make it work in the real life, see [How to Use](#How-to-Use).
    ```
 
 2. Install the required libraries.
-
   Using pip:
   ```bash
   pip install requirements.txt
   ```
-
   Using conda:
   ```bash
   conda install -c requirements.txt
@@ -179,7 +176,7 @@ If you want to make it work in the real life, see [How to Use](#How-to-Use).
 
 ## License:
 
-This project has a <a href=https://github.com/Dzen456/CalcUABlator/blob/main/LICENSE> Creative Commons License </a>
+This project has a <a href=https://github.com/Dzen456/CalcUABlator/blob/main/LICENSE> Creative Commons License </a>.
 
 ## Authors:
 

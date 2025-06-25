@@ -188,7 +188,7 @@ This project has a <a href=https://github.com/Dzen456/CalcUABlator/blob/main/LIC
 - David Zheng
 
 ## Bibliography:
-
+<br>
 - Arduino UNO R4 Wifi: https://tienda.bricogeek.com/arduino-original/1845-arduino-uno-r4-wifi.html 
 - Raspberry Pi 4: https://tienda.bricogeek.com/placas-raspberry-pi/1330-raspberry-pi-4-model-b-4-gb.html 
 - Nema 17 stepper: https://tienda.bricogeek.com/motores-paso-a-paso/1360-motor-nema-17-35kg-con-conector-y-cable.html 
@@ -196,7 +196,8 @@ This project has a <a href=https://github.com/Dzen456/CalcUABlator/blob/main/LIC
 - Stepper Driver Pololu A4988: https://tienda.bricogeek.com/controladores-motores/553-pololu-a4988-stepstick-prusa-reprap.html 
 - Raspberry Pi v2 Cam: https://tienda.bricogeek.com/accesorios-raspberry-pi/822-camara-raspberry-pi-v2-8-megapixels.html 
 - Servo S3003: https://tienda.bricogeek.com/motores/118-servomotor-de-rotacion-continua-s3003-360-grados.html
-
+</br>
+<br>
 - Getting started with arduino: https://docs.arduino.cc/tutorials/uno-rev3/getting-started/ 
 - Connect Raspberry Pi to Arduino: https://www.youtube.com/watch?v=xc9rUI0F6Iw 
 - Connect stepper and stepper driver to Arduino (1): https://www.youtube.com/shorts/hTjXpgDDzUI 
@@ -208,6 +209,6 @@ https://www.youtube.com/watch?v=nLV0fjUWI-g
 - Control servo motor: https://docs.arduino.cc/learn/electronics/servo-motors/ 
 - Connect, calibrate and control NEMA 17 steppers with arduino: https://www.youtube.com/watch?v=wcLeXXATCR4 
 - Raspberry Pi v2 Cam angles: https://raspberrypi-guide.github.io/electronics/camera-positioning
-
+</br>
 - Robot from 2017: https://rlpengineeringschooluab2017.wordpress.com/2017/05/30/turing-drawing/
 - Robótica, Llenguatge i Programació class notes.

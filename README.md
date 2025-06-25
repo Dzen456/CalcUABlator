@@ -148,7 +148,25 @@ For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.t
 
 ## How to Use:
 
-To run the robot's Arduino UNO Rev. 3, you'll have to connect the device to the arduino with a cable to be able to run the code correctly. You'll also need to build the robot using the components described above and the blueprints for the circuits and structure.
+1. Clone this repo.
+
+git clone https://github.com/Dzen456/CalcUABlator.git
+
+2. Install the required libraries.
+
+Using pip:
+
+pip install requirements.txt
+
+Using conda:
+
+conda install -c requirements.txt
+
+3. Execute python script in each directory.
+
+4. To run the robot's Arduino UNO Rev. 3, you'll have to connect the device to the arduino with a cable to be able to run the code correctly. You'll also need to build the robot using the components described above and the blueprints for the circuits and structure.
+
+5. Add star to this repo if you like it!
 
 ## Authors:
 

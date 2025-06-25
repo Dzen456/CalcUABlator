@@ -10,6 +10,9 @@ This document contains instructions of the robot's functionality and usage, and 
 </p>
 </br>
 
+See <a href=https://github.com/Dzen456/CalcUABlator/blob/main/CREATIVE%20PROCESS.md> CREATIVE PROCESS </a> to read about the making of this project.
+
+
 ## Table of contents:
 
 - [Directories](#Directories)

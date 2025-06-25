@@ -150,17 +150,17 @@ For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.t
 
 1. Clone this repo.
 
-git clone https://github.com/Dzen456/CalcUABlator.git
+<details> <summary>git clone https://github.com/Dzen456/CalcUABlator.git</summary>
 
 2. Install the required libraries.
 
 Using pip:
 
-pip install requirements.txt
+<details> <summary>pip install requirements.txt</summary>
 
 Using conda:
 
-conda install -c requirements.txt
+<details> <summary>conda install -c requirements.txt</summary>
 
 3. Execute python script in each directory.
 

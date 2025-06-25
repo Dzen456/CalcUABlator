@@ -121,7 +121,7 @@ IDEs:
 Other software:
 - Coppelia 4.7
 - Blender 4.1
-- Python 3.11?
+- Python 3.11
 
 ### Requirements:
 ```shell

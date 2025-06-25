@@ -155,12 +155,12 @@ For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.t
 
 2. Install the required libraries.
 
-Using pip:
+  Using pip:
 
 
     pip install requirements.txt
 
-Using conda:
+  Using conda:
 
     conda install -c requirements.txt
 

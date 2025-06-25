@@ -135,9 +135,9 @@ easyocr
 sympy
 ```
 
-If you just want to run the simulation, only CoppeliaSim software + Jupiter Notebook is required to make it work. 
+If you just want to run the simulation, see [Simulation](#Simulation). 
 
-For the Arduino UNO Rev. 3, you will need Arduino IDE.
+If you want to make it work in the real life, see [How to Use](#HowtoUse).
 
 ## Simulation:
 

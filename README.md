@@ -144,9 +144,9 @@ If you want to make it work in the real life, see [How to Use](#How-to-Use).
 ## Simulation:
 
 1. Clone this repo.
-   ```bash
-   git clone https://github.com/Dzen456/CalcUABlator.git
-   ```
+ ```bash
+ git clone https://github.com/Dzen456/CalcUABlator.git
+ ```
    
 2. For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.ttt file on the CoppeliaSim and then execute the CoppeliaSim_CalcUABlator_script.ipynb notebook to activate the demo of the robot. It is possible to change the test texture in the folder test_texture to test the robot capacities.
 <img src="CoppeliaSim_CalcUABlator/CoppeliaSim.gif" width="500">
@@ -154,19 +154,19 @@ If you want to make it work in the real life, see [How to Use](#How-to-Use).
 ## How to Use:
 
 1. Clone this repo.
-   ```bash
-   git clone https://github.com/Dzen456/CalcUABlator.git
-   ```
+ ```bash
+ git clone https://github.com/Dzen456/CalcUABlator.git
+ ```
 
 2. Install the required libraries.
-  Using pip:
-  ```bash
-  pip install requirements.txt
-  ```
-  Using conda:
-  ```bash
-  conda install -c requirements.txt
-  ```
+Using pip:
+```bash
+pip install requirements.txt
+```
+Using conda:
+```bash
+conda install -c requirements.txt
+```
 
 3. Execute python script in each directory.
 

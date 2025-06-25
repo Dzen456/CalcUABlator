@@ -135,6 +135,7 @@ opencv-python
 matplotlib
 easyocr
 sympy
+pyserial
 ```
 
 If you just want to run the simulation, see [Simulation](#Simulation). 

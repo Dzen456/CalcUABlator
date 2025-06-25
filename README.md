@@ -137,7 +137,7 @@ sympy
 
 If you just want to run the simulation, see [Simulation](#Simulation). 
 
-If you want to make it work in the real life, see [How to Use](#How_to_Use).
+If you want to make it work in the real life, see [How to Use](#How-to-Use).
 
 ## Simulation:
 

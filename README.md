@@ -141,7 +141,12 @@ If you want to make it work in the real life, see [How to Use](#How-to-Use).
 
 ## Simulation:
 
-For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.ttt file on the CoppeliaSim and then execute the CoppeliaSim_CalcUABlator_script.ipynb notebook to activate the demo of the robot. It is possible to change the test texture in the folder test_texture to test the robot capacities.
+1. Clone this repo.
+
+   ```bash
+   git clone https://github.com/Dzen456/CalcUABlator.git
+   
+2. For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.ttt file on the CoppeliaSim and then execute the CoppeliaSim_CalcUABlator_script.ipynb notebook to activate the demo of the robot. It is possible to change the test texture in the folder test_texture to test the robot capacities.
 
 
 <img src="CoppeliaSim_CalcUABlator/CoppeliaSim.gif" width="500">
@@ -170,6 +175,10 @@ For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.t
 
 5. Add star to this repo if you like it!
 
+## License:
+
+Creative Commons
+
 ## Authors:
 
 - Yanhao Lin
@@ -184,4 +193,5 @@ For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.t
 - https://docs.arduino.cc/tutorials/uno-rev3/getting-started/
 - https://www.youtube.com/watch?v=wcLeXXATCR4
 - https://www.wexterhome.com/curso-arduino/sentencia-if-else
+- https://rlpengineeringschooluab2017.wordpress.com/2017/05/30/turing-drawing/
 - Robótica, Llenguatge i Programació class notes.

@@ -21,7 +21,7 @@ This document contains instructions of the robot's functionality and usage, and 
   - [Specs](#Specs)
   - [Requirements](#Requirements)
 - [Simulation](#Simulation)
-- [How to Use](#How_to_Use)
+- [How to Use](#How to Use)
 - [Contributions](#Contributions)
 - [License](#License)
 - [Authors](#Authors)

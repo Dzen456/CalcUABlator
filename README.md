@@ -18,7 +18,13 @@ This document contains instructions of the robot's functionality and usage, and 
   - [Hardware](#Hardware)
       - [Fritzing](#Fritzing)
   - [Software](#Software)
-- [Usage](#Usage)
+  - [Specs](#Specs)
+  - [Requirements](#Requirements)
+- [Simulation](#Simulation)
+- [How to Use](#How_to_Use)
+- [Contributions](#Contributions)
+- [License](#License)
+- [Authors](#Authors)
 - [Bibliography](#Bibliography)
 
 ## Description:

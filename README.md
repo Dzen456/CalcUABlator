@@ -13,6 +13,7 @@ This document contains instructions of the robot's functionality and usage, and 
 ## Table of contents:
 
 - [Directories](#Directories)
+- [Demo](#Demo)
 - [Installation](#Installation)
   - [Hardware](#Hardware)
       - [Fritzing](#Fritzing)

@@ -31,7 +31,7 @@ In this project, we wanted to create a robot capable of solving mathematical ope
 
 On the one hand, when considering this idea, you may think of applications or websites like PhotoMath or Symbolab, so you can think that this robot the same as these apps, but in a more tangible way.
 
-On the other hand, all the pieces used for this robot are recycled: the main structure of the robot is a scara made in 2017, and the camera and Rasperry Pi structure were made from a wooden plank from an old pallet.
+On the other hand, all the pieces used for this robot are recycled: the main structure of the robot is a scara made in 2017, and the camera and Raspberry Pi structure were made from a wooden plank from an old pallet.
 
 Finally, we developed the software to detect an operation, solve it, and write the solution on real paper. We also created a CoppeliaSim scene and a Jupyter Notebook so you can simulate the entire robot process in a simple and visual way.
 

@@ -18,4 +18,4 @@ print(x_robot, y_robot)
 q = calculate_angles(x_robot, y_robot)
 print(q)
 
-send_result_to_arduino(q[0], q[1])
+send_result_to_arduino(q[0], q[1], answer)

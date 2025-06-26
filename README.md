@@ -91,7 +91,10 @@ Making this robot requieres all of the following **hardware components**, or at 
 <!-- Source Power Supply for Raspberry Pi 4 - 5V/2.5A -->
 - You will need to have a **Power Supply for the Raspberry Pi 4 of 5V/2.5A**.
 - You should **use the +12V (Yellow output) from the ATX Power Supply** to power the stepper drivers.
-- Maybe you should **calibrate the two stepper drivers to a VRef of 1.2V** (see how to do this in this video: https://youtu.be/wcLeXXATCR4?t=462).
+![image](https://github.com/user-attachments/assets/6aa34dc5-a8f7-4cad-8686-99b7d64bbb2b)
+- Maybe you should **calibrate the two stepper drivers to a VRef of 1.2V** (see how to do this in this video: https://youtu.be/wcLeXXATCR4?t=462):
+![image](https://github.com/user-attachments/assets/0e89f4c4-acd5-420d-b9bb-7ccb68609f3f)
+
 
 #### Fritzing:
 <img width="650px" style="padding-right:10px;" src="Hardware_CalcUABlator/Fritzing_CalcUABlator/calcUABlator-fritzing_bb.png" />

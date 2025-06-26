@@ -10,8 +10,6 @@ This document contains instructions of the robot's functionality and usage, and 
 </p>
 </br>
 
-See <a href=https://github.com/Dzen456/CalcUABlator/blob/main/CREATIVE%20PROCESS.md> CREATIVE PROCESS </a> to read about the making of this project.
-
 
 ## Table of contents:
 
@@ -22,6 +20,17 @@ See <a href=https://github.com/Dzen456/CalcUABlator/blob/main/CREATIVE%20PROCESS
   - [Software](#Software)
 - [Usage](#Usage)
 - [Bibliography](#Bibliography)
+
+## Description:
+In this project, we wanted to create a robot capable of solving mathematical operations using Computer Vision and some of the things we learned during this subject. 
+
+On the one hand, when considering this idea, you may think of applications or websites like PhotoMath or Symbolab, so you can think of this robot like this same idea, but in a more tangible way.
+
+On the other hand, all the pices used for this robot are recycled: the main structure of the robot is a scara made in 2017, and the camera and Rasperry Pi structure were made from a wooden plank from an old pallet.
+
+Finally, we developed the software to detect an operation, solve it, and write the solution on real paper. We also created a CoppeliaSim scene and a Jupyter Notebook so you can simulate the entire robot process in a simple and visual way.
+
+See <a href=https://github.com/Dzen456/CalcUABlator/blob/main/CREATIVE%20PROCESS.md> CREATIVE PROCESS </a> to read more about the making of this project.
 
 ## Directories:
 
@@ -92,7 +101,7 @@ Making this robot requieres all of the following **hardware components**, or at 
 - You will need to have a **Power Supply for the Raspberry Pi 4 of 5V/2.5A**.
 - You should **use the +12V (Yellow output) from the ATX Power Supply** to power the stepper drivers.
 ![image](https://github.com/user-attachments/assets/6aa34dc5-a8f7-4cad-8686-99b7d64bbb2b)
-- Maybe you should **calibrate the two stepper drivers to a VRef of 1.2V** (see how to do this in this video: https://youtu.be/wcLeXXATCR4?t=462):
+- Maybe you should **calibrate the two stepper drivers to a VRef of 1.2V** (see how to do this in this video: https://youtu.be/wcLeXXATCR4?t=462).
 ![image](https://github.com/user-attachments/assets/0e89f4c4-acd5-420d-b9bb-7ccb68609f3f)
 
 

@@ -44,25 +44,17 @@ See <a href=https://github.com/Dzen456/CalcUABlator/blob/main/CREATIVE%20PROCESS
 CalcUABlator has the following directories:
 
 - CoppeliaSim_CalcUABlator: This folder contains the CoppeliaSim scene and the Jupyter Notebook of the robot, where you can simulate his behaviour and usage.
-
-> CoppeliaSim_CalcUABlator/
-
-> ├── test_texture/
-
-> │   └── test_texture.jpg
-
-> ├── CoppeliaSim.gif
-
-> ├── CoppeliaSim_CalcUABlator.ttt
-
-> ├── CoppeliaSim_CalcUABlator_script.ipynb
-
-> ├── remoteApi.dll
-
-> ├── sim.py
-
-> └── simConst.py
-
+```cmd
+CoppeliaSim_CalcUABlator/
+├── test_texture/
+│   └── test_texture.jpg
+├── CoppeliaSim.gif
+├── CoppeliaSim_CalcUABlator.ttt
+├── CoppeliaSim_CalcUABlator_script.ipynb
+├── remoteApi.dll
+├── sim.py
+└── simConst.py
+```
 - Hardware_CalcUABlator: This folder contains the components, budget and blueprints for the fritzing of the robot, required for his correct construction. The diagram must be followed; otherwise, the robot likely won't work.
 ```cmd
 Hardware_CalcUABlator/

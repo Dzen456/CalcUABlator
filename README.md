@@ -186,6 +186,10 @@ conda install -c requirements.txt
 
 5. Add star to this repo if you like it!
 
+## Contributions:
+
+See <a href=https://github.com/Dzen456/CalcUABlator/blob/main/CONTRIBUTING.md> CONTRIBUTING </a> if you want to contribute to this project.
+
 ## License:
 
 This project has a <a href=https://github.com/Dzen456/CalcUABlator/blob/main/LICENSE> Creative Commons License </a>.

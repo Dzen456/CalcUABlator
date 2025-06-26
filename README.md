@@ -6,7 +6,7 @@
 <p style="text-align:center;">
 A robot capable of doing mathematical operations using Computer Vision.
 
-This document contains instructions of the robot's functionality and usage, and the requirements necessary for this code to work.
+This document contains instructions of the robot's functionality and usage, and the requirements necessary for this code and hardware to work.
 </p>
 </br>
 
@@ -19,8 +19,8 @@ This document contains instructions of the robot's functionality and usage, and 
   - [Hardware](#Hardware)
       - [Fritzing](#Fritzing)
   - [Software](#Software)
-      -[Specs](#Specs)
-      -[Requirements](#Requirements)
+      - [Specs](#Specs)
+      - [Requirements](#Requirements)
 - [Simulation](#Simulation)
 - [How to Use](#How_to_Use)
 - [Contributions](#Contributions)
@@ -44,7 +44,7 @@ See <a href=https://github.com/Dzen456/CalcUABlator/blob/main/CREATIVE%20PROCESS
 CalcUABlator has the following directories:
 
 - CoppeliaSim_CalcUABlator: This folder contains the CoppeliaSim scene and the Jupyter Notebook of the robot, where you can simulate his behaviour and usage.
-```cmd
+```shell
 CoppeliaSim_CalcUABlator/
 ├── test_texture/
 │   └── test_texture.jpg
@@ -56,7 +56,7 @@ CoppeliaSim_CalcUABlator/
 └── simConst.py
 ```
 - Hardware_CalcUABlator: This folder contains the components, budget and blueprints for the fritzing of the robot, required for his correct construction. The diagram must be followed; otherwise, the robot likely won't work.
-```cmd
+```shell
 Hardware_CalcUABlator/
 ├── Fritzing_CalcUABlator/
 |   ├── MSStepperDriverTable.PNG
@@ -69,7 +69,7 @@ Hardware_CalcUABlator/
 └── components.xlsx
 ```
 - Old version - 3D Model and ideas: This folder contains an old, unused version of the robot for researching purposes, with the dimensions, list of components, and a code for the camera.
-```cmd
+```shell
 Old version - 3D Model and ideas/
 ├── OLD_calcUABlator/
 │   ├── Pen Holder/
@@ -88,11 +88,11 @@ Old version - 3D Model and ideas/
 └── Raspberry_Structure_Measurements_Trigonometry (Comments in Spanish).pdf
 ```
 - Software_CalcUABlator: This folder contains the function diagram of the robot, with all the variables and functions that the robot manages in the Raspberry Pi and Arduino modules, all the RaspberryPi and Arduino scripts and a requirements.txt for the installation.
-```cmd
+```shell
 Software_CalcUABlator/
 ├── Arduino/
 |   ├── OnlyServo/
-|   |   └── sketch_may14a.ino
+│   │   └── sketch_may14a.ino
 |   └── Servo+Steppers/
 |       └── sketch_may27a.ino
 ├── RaspberryPi
@@ -188,7 +188,8 @@ If you want to make it work in the real life, see [How to Use](#How-to-Use).
  git clone https://github.com/Dzen456/CalcUABlator.git
  ```
    
-2. For the simulation, you just have to open and run the CoppeliaSim_CalcUABlator.ttt file on the CoppeliaSim and then execute the CoppeliaSim_CalcUABlator_script.ipynb notebook to activate the demo of the robot. It is possible to change the test texture in the folder test_texture to test the robot capacities.
+2. You have to open and run the CoppeliaSim_CalcUABlator.ttt file on the CoppeliaSim
+3. Then, execute the CoppeliaSim_CalcUABlator_script.ipynb notebook to activate the demo of the robot. It is possible to change the test texture in the folder test_texture to test the robot capacities.
 <img src="CoppeliaSim_CalcUABlator/CoppeliaSim.gif" width="500">
 
 ## How to Use:

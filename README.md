@@ -12,14 +12,15 @@ This document contains instructions of the robot's functionality and usage, and 
 
 ## Table of contents:
 
+- [Description](#Description)
 - [Directories](#Directories)
 - [Demo](#Demo)
 - [Installation](#Installation)
   - [Hardware](#Hardware)
       - [Fritzing](#Fritzing)
   - [Software](#Software)
-  - [Specs](#Specs)
-  - [Requirements](#Requirements)
+      -[Specs](#Specs)
+      -[Requirements](#Requirements)
 - [Simulation](#Simulation)
 - [How to Use](#How_to_Use)
 - [Contributions](#Contributions)
@@ -42,47 +43,67 @@ See <a href=https://github.com/Dzen456/CalcUABlator/blob/main/CREATIVE%20PROCESS
 
 CalcUABlator has the following directories:
 
-- CoppeliaSim_CalcUABlator: This folder contains the CoppeliaSim of the robot, where you can simulate his behaviour and usage.
+- CoppeliaSim_CalcUABlator: This folder contains the CoppeliaSim scene and the Jupyter Notebook of the robot, where you can simulate his behaviour and usage.
 ```cmd
 CoppeliaSim_CalcUABlator/
 ├── test_texture/
 │   └── test_texture.jpg
+├── CoppeliaSim.gif
 ├── CoppeliaSim_CalcUABlator.ttt
 ├── CoppeliaSim_CalcUABlator_script.ipynb
 ├── remoteApi.dll
 ├── sim.py
 └── simConst.py
 ```
-- Fritzing_CalcUABlator: This folder contains the blueprints for the fritzing of the robot, required for his correct construction. The diagram must be followed; otherwise, the robot likely won't work.
+- Hardware_CalcUABlator: This folder contains the components, budget and blueprints for the fritzing of the robot, required for his correct construction. The diagram must be followed; otherwise, the robot likely won't work.
 ```cmd
-Fritzing_CalcUABlator/
-├── calcUABlator-fritzing.fzz
-├── calcUABlator-fritzing_bb.png
-└── references.txt
+Hardware_CalcUABlator/
+├── Fritzing_CalcUABlator/
+|   ├── MSStepperDriverTable.PNG
+|   ├── calcUABlator-fritzing.fzz
+|   ├── calcUABlator-fritzing_bb.png
+|   └── references.txt
+├── budget.pdf
+├── budget.xlsx
+├── components.pdf
+└── components.xlsx
 ```
 - Old version - 3D Model and ideas: This folder contains an old, unused version of the robot for researching purposes, with the dimensions, list of components, and a code for the camera.
 ```cmd
 Old version - 3D Model and ideas/
 ├── OLD_calcUABlator/
+│   ├── Pen Holder/
+│   │   ├── Comment.txt
+│   │   ├── RLP_PenHolder.blend
+│   │   ├── part1.png
+│   │   ├── part2.png
+│   │   ├── part3.png
+│   │   └── part4.png
 │   ├── background_test/
 │   │   └── christmas_photo_studio_07_4k.exr
-│   ├── Pen Holder/
-│   │   │── Comment.txt
-│   │   │── part1.png
-│   │   │── part2.png
-│   │   │── part3.png
-│   │   │── part4.png
-│   │   └── RLP_PenHolder.blend
 │   ├── List of components (No Hardware) - 22-04-2025.pdf
-│   ├── RLP_Robot_sketch2.blend
+│   └── RLP_Robot_sketch2.blend
 ├── Measurement_Confirmation_Script.py
-├── Raspberry_Structure_Measurements_Trigonometry (Comments in Spanish).pdf
-└── Raspberry_Structure_Measurements.txt
+├── Raspberry_Structure_Measurements.txt
+└── Raspberry_Structure_Measurements_Trigonometry (Comments in Spanish).pdf
 ```
-- Software_CalcUABlator: This folder contains the function diagram of the robot, with all the variables and functions that the robot manages in the Raspberry Pi and Arduino modules. 
+- Software_CalcUABlator: This folder contains the function diagram of the robot, with all the variables and functions that the robot manages in the Raspberry Pi and Arduino modules, all the RaspberryPi and Arduino scripts and a requirements.txt for the installation.
 ```cmd
 Software_CalcUABlator/
-└── SoftwareSchema.pdf
+├── Arduino/
+|   ├── OnlyServo/
+|   |   └── sketch_may14a.ino
+|   └── Servo+Steppers/
+|       └── sketch_may27a.ino
+├── RaspberryPi
+|   ├── capture_image.py
+|   ├── connect_arduino.py
+|   ├── main.py
+|   ├── move_robot.py
+|   └── text_recognition.py
+├── SoftwareSchema.pdf
+├── requirements.txt
+└── specs.txt
 ```
 
 ## Demo:
@@ -134,7 +155,7 @@ Also, it is required to have the following **additional pieces**:
 
 ![image](https://github.com/user-attachments/assets/86c001aa-c612-41e7-9019-738179391035)
 
-### Specs:
+#### Specs:
 
 IDEs:
 - Python (Pycharm, VS Code, Spyder,...)
@@ -146,7 +167,7 @@ Other software:
 - Blender 4.1
 - Python 3.11
 
-### Requirements:
+#### Requirements:
 ```shell
 numpy
 opencv-python
@@ -189,7 +210,7 @@ conda install -c requirements.txt
 
 3. Execute python script in each directory.
 
-4. To run the robot's Arduino UNO Rev. 4, you'll have to connect the device to the arduino with a USB cable to be able to run the code correctly. You'll also need to build the robot using the components described [above](#Hardware) and the blueprints for the [circuits](#Fritzing) and structure.
+4. To run the robot's Arduino UNO 4 WiFi, you'll have to connect the device to the arduino with a USB cable to be able to run the code correctly. You'll also need to build the robot using the components described [above](#Hardware) and the blueprints for the [circuits](#Fritzing) and structure.
 
 5. Add star to this repo if you like it!
 

@@ -44,7 +44,7 @@ See <a href=https://github.com/Dzen456/CalcUABlator/blob/main/CREATIVE%20PROCESS
 CalcUABlator has the following directories:
 
 - CoppeliaSim_CalcUABlator: This folder contains the CoppeliaSim scene and the Jupyter Notebook of the robot, where you can simulate his behaviour and usage.
-```shell
+```cmd
 CoppeliaSim_CalcUABlator/
 ├── test_texture/
 │   └── test_texture.jpg
@@ -56,7 +56,7 @@ CoppeliaSim_CalcUABlator/
 └── simConst.py
 ```
 - Hardware_CalcUABlator: This folder contains the components, budget and blueprints for the fritzing of the robot, required for his correct construction. The diagram must be followed; otherwise, the robot likely won't work.
-```shell
+```cmd
 Hardware_CalcUABlator/
 ├── Fritzing_CalcUABlator/
 |   ├── MSStepperDriverTable.PNG
@@ -69,7 +69,7 @@ Hardware_CalcUABlator/
 └── components.xlsx
 ```
 - Old version - 3D Model and ideas: This folder contains an old, unused version of the robot for researching purposes, with the dimensions, list of components, and a code for the camera.
-```shell
+```cmd
 Old version - 3D Model and ideas/
 ├── OLD_calcUABlator/
 │   ├── Pen Holder/
@@ -88,7 +88,7 @@ Old version - 3D Model and ideas/
 └── Raspberry_Structure_Measurements_Trigonometry (Comments in Spanish).pdf
 ```
 - Software_CalcUABlator: This folder contains the function diagram of the robot, with all the variables and functions that the robot manages in the Raspberry Pi and Arduino modules, all the RaspberryPi and Arduino scripts and a requirements.txt for the installation.
-```shell
+```cmd
 Software_CalcUABlator/
 ├── Arduino/
 |   ├── OnlyServo/

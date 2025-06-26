@@ -2,13 +2,12 @@
 <img src=https://github.com/user-attachments/assets/39da234b-853f-4b1a-8f35-447f2a2f937c />
 </a>
 
-<br>
 <p style="text-align:center;">
 A robot capable of doing mathematical operations using Computer Vision.
 
 This document contains instructions of the robot's functionality and usage, and the requirements necessary for this code and hardware to work.
 </p>
-</br>
+
 ## Table of contents:
 
 - [Description](#Description)

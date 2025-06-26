@@ -108,7 +108,9 @@ Software_CalcUABlator/
 
 ## Demo:
 <a href=https://youtu.be/mdDsb5YC6hA>
-![image](https://github.com/user-attachments/assets/d4b4d666-87ad-4fe9-8f88-11e4f6fe9602)
+  
+![image](https://github.com/user-attachments/assets/e54bd6b7-2bc3-4526-9d14-6d7f4eec6a83)
+
 </a>
 
 ## Installation:

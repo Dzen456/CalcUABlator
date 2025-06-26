@@ -91,8 +91,10 @@ Software_CalcUABlator/
 ├── Arduino/
 │   ├── OnlyServo/
 │   │   └── sketch_may14a.ino
-│   └── Servo+Steppers/
-│       └── sketch_may27a.ino
+|   ├── Servo+Steppers/
+│   |   └── sketch_may27a.ino
+│   └── Main/
+│       └── Main.ino
 ├── RaspberryPi
 │   ├── capture_image.py
 │   ├── connect_arduino.py

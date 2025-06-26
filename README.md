@@ -59,10 +59,10 @@ CoppeliaSim_CalcUABlator/
 ```cmd
 Hardware_CalcUABlator/
 ├── Fritzing_CalcUABlator/
-|   ├── MSStepperDriverTable.PNG
-|   ├── calcUABlator-fritzing.fzz
-|   ├── calcUABlator-fritzing_bb.png
-|   └── references.txt
+│   ├── MSStepperDriverTable.PNG
+│   ├── calcUABlator-fritzing.fzz
+│   ├── calcUABlator-fritzing_bb.png
+│   └── references.txt
 ├── budget.pdf
 ├── budget.xlsx
 ├── components.pdf
